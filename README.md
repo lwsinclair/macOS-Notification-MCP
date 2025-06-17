@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/devizor-macos-notification-mcp-badge.png)](https://mseep.ai/app/devizor-macos-notification-mcp)
+
 # 🔔 macOS Notification MCP
 
 A Model Context Protocol (MCP) server that enables AI assistants to trigger macOS notifications, sounds, and text-to-speech.
